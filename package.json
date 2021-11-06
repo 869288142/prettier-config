@@ -1,0 +1,7 @@
+{
+  "name": "@cprize/prettier-config",
+  "version": "0.0.1",
+  "main": "index.json",
+  "author": "加把劲骑士 <869288142@qq.com>",
+  "license": "MIT"
+}
